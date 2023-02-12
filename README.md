@@ -5,7 +5,7 @@
 ## Integrantes:
   * Juan José Prenss Castro - 2180660
   * Amin Esteban Barbosa Vargas - 2190037
-  * Brayan xD - 
+  * Brayan Sneider Daza Suárez - 2190040
   
 ## Objetivo principal:
   * Identificar la especie de ave por medio del canto que emite.
@@ -15,13 +15,14 @@
   * Por medio de diferentes técnicas poder clasificar correctamente las distintivas especies de aves por medio del sonido que emiten.
 
 ## Dataset:
-Dataset: Dataset con características químicas de diferentes muestras de agua que permitirán calcular su indice de riesgo
-         https://data.humdata.org/dataset/96dae86b-5fa3-4934-a1e8-52b017f5c74c/resource/4321779e-14af-4e5f-92de-48f54f792e0d/download/2010-2019-consolidado-sivicap.xlsx
+Dataset: Presenta una serie de audios de distintas especies de aves que comienzan desde la N a la Z. Los datos fueron sacados de la página Kaggle, que a su vez fueron recopilados de la página xeno-canto donde nos comparten el sonido que emiten diferentes tipos de animales.
+         https://www.kaggle.com/datasets/rohanrao/xeno-canto-bird-recordings-extended-n-z
+         https://xeno-canto.org/
          
 ## Modelos:
-  * Se hizo uso de un RandomForestRegressor el cual es entrenado con las variables de analisis del agua.
+  * 
 
 ## Enlaces:
-  * Codigo: https://colab.research.google.com/drive/1MvL7GD8HYuBsxbRobD2UoONl8jn7EQN9?usp=sharing
-  * Video: https://www.youtube.com/watch?v=uBh9U5CAZFg
-  * repositorio: https://github.com/RubenR-M/PotabilidadDelAgua
+  * Codigo: 
+  * Video: 
+  * repositorio: https://github.com/MacheroKiller/ProyectoFinal_InteligenciaArtificial
