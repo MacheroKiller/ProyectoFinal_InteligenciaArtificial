@@ -20,9 +20,9 @@ Dataset: Presenta una serie de audios de distintas especies de aves que comienza
          https://xeno-canto.org/
          
 ## Modelos:
-  * 
+  * Transfer Learning, CNN.
 
 ## Enlaces:
-  * Codigo: 
-  * Video: 
+  * Codigo: https://colab.research.google.com/drive/1EIxktb26j-qZ6_CumB9bJnMp_6utaIrw?usp=sharing
+  * Video: https://youtu.be/fJegw_tTjB8
   * repositorio: https://github.com/MacheroKiller/ProyectoFinal_InteligenciaArtificial
